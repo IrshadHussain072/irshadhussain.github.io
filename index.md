@@ -76,4 +76,3 @@ Introduction to Web Science, Semantic Web, Digital Consumer Behavior, Risk Manag
 ##### Business Proficiency
 
 
-
