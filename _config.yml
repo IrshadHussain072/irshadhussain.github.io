@@ -2,10 +2,11 @@ title: Irshad Hussain Mohammed
 logo: "/profile.jpg?raw=true" 
 description: > # your text below (remove <br> elements if you don't need line breaks)
  Data Engineer
-  <br><br><br><br><br>
-  <a href="mailto:imohammed@uni-koblenz.de">imohammed@uni-koblenz.de</a>
-  <br><br><br><br><br><br><br>
-  <a href= "https://www.linkedin.com/in/theirshadhussain/" >LinkedIn Profile</a>
-  <br><br> <br><br><br><br><br>
-  <a href="https://github.com/IrshadHussain072/">Gihub</a> 
-
+   <br><br>
+  <a href="mailto:imohammed@uni-koblenz.de">imohammed@uni-koblenz.de </a>
+  <br>
+  <a href="https://www.linkedin.com/in/theirshadhussain/">LinkedIn Profile</a>
+  <br>
+  <a href="https://www.gihub.com/IrshadHussain072/">Gihub</a> 
+theme: jekyll-theme-minimal
+  
