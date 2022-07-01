@@ -65,3 +65,14 @@ Introduction to Web Science, Semantic Web, Digital Consumer Behavior, Risk Manag
 ### **GUDLAVALLERU ENGINEERING COLLEGE**
 ### BTech Computer Science And Engineering (2016 - 2020)
 
+
+## Languages
+
+### ENGLISH**
+##### Native Proficiency
+
+### German**
+##### Business Proficiency
+
+
+
