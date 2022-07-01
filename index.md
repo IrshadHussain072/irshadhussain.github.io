@@ -52,7 +52,7 @@ Highly organized, motivated data person with significant background in Machine L
 •	Proactively shared ideas for continuous support and process improvement.
 
 
-
+---
 
 ## Education
 
@@ -65,6 +65,7 @@ Introduction to Web Science, Semantic Web, Digital Consumer Behavior, Risk Manag
 ### **GUDLAVALLERU ENGINEERING COLLEGE**
 ### BTech Computer Science And Engineering (2016 - 2020)
 
+---
 
 ## Languages
 
