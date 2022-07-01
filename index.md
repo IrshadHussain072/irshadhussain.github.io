@@ -68,10 +68,10 @@ Introduction to Web Science, Semantic Web, Digital Consumer Behavior, Risk Manag
 
 ## Languages
 
-### ENGLISH**
+### ENGLISH
 ##### Native Proficiency
 
-### German**
+### German
 ##### Business Proficiency
 
 
