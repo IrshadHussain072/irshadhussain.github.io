@@ -26,7 +26,8 @@ Highly organized, motivated data person with significant background in Machine L
 ## Experience
 
 ### **Intern Data Governance and Quality**
-### ADIDAS HQ
+### ADIDAS HeadQuarters
+#### Tech Stack : Collibra, Azure, Databricks, REST API's, Innovator for Data Modelling, Agile Work
 
 •	Support on major change projects linked to any of the major data domains 
 
@@ -42,6 +43,7 @@ Highly organized, motivated data person with significant background in Machine L
 
 ### **Intern Data Analytics**
 ### SmartLinks Communication Pvt. Ltd.
+#### Tech Stack : Python, Tableau, Excel
 
 •	To collaborate with business users all over the group and internal IT providers. 
 
@@ -53,8 +55,15 @@ Highly organized, motivated data person with significant background in Machine L
 
 •	Proactively shared ideas for continuous support and process improvement.
 
+### **ML and AI Intern**
+### IBM in collaboration with SmartBridge
+#### Tech Stack : Python Libraries, IBM Wastson Cloud
 
+•	Achievements/Tasks Data analysis, Data Cleansing and constant updating of the data in the cloud were performed.
 
+•	Worked on development of various Machine Learning models trained on the datasets provided by IBM
+
+•	Learnt the working of Machine Learning algorithms on data.
 
 ## Education
 
