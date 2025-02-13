@@ -1,3 +1,4 @@
+
 # theirshadhussain.github.io
 
 Experience in field of data management, analysis, and visualization, currently working as Senior Data Consultant at Aldi sued International Data and Analytics (HQ) , worked as a Data Consultant at Knauf IT and a Data Governance and Quality Intern at adidas headquarters, holding a Master of Science degree in Web and Data Science from the University of Koblenz and Landau.
@@ -9,28 +10,35 @@ Technical Excellence : Azure, Databricks, Tableau, Power Bi, Collibra, Data Mana
 ---
 # Experience
 
-####   Senior Data Consultant | Aldi Sued Headquarters | August, 2023 - Present*
+####   Senior Data Consultant , Aldi Headquarters 
+August, 2023 - Present*
  - Full Stack Data Engineer - multidisciplinary expertise in ETL processes, data modeling, and front-end applications, Dashboard Design, Concept building and automated data pipelines
 
-####   Data Consultant | KnaufIT  HQ | February, 2023 - July 2023  
+####   Data Consultant , Knauf IT  HQ 
+February, 2023 - July 2023  
 
-####   Data Governance and Quality Intern | Adidas HQ | September, 2022 - February 2023
+####   Data Governance and Quality Intern , Adidas HQ  
+September, 2022 - February 2023
 
-####   ML and AI Intern | IBM in collaboration with SmartBridge| April, 2019 - June 2019
+####   ML and AI Intern , IBM in collaboration with SmartBridge
+April, 2019 - June 2019
 
 ---
 
 
 # Educational Qualifications
-####  Master of Science, Web and Data Science | University of Koblenz, Germany.
+####  Master of Science, Web and Data Science 
+University of Koblenz, Germany.
  - Majors - Data Science, Machine Learning and Data Mining, Big Data, Engineering Web and Data Intensive Systems, 
 Introduction to Web Science, Semantic Web, Digital Consumer Behavior, Risk Management in Distributed Systems. 
 
-####  Bachelor of Technology, Computer Science and Engineering | Gudlavealleru Engineering College, India 
+####  Bachelor of Technology, Computer Science and Engineering 
+Gudlavalleru Engineering College, India
+
 ---
 
 
-## Skills
+# Skills
 
 <p align='left'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40">
@@ -44,7 +52,8 @@ Introduction to Web Science, Semantic Web, Digital Consumer Behavior, Risk Manag
 
 ---
 
-## Languages
+
+# Languages
 
 #### English | Native Proficiency
 #### German | Business Proficiency 
