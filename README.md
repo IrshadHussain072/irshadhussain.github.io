@@ -9,24 +9,31 @@ Technical Excellence : Azure, Databricks, Tableau, Power Bi, Collibra, Data Mana
 ---
 # Experience
 
-####   Senior Data Consultant | Aldi Sued Headquarters | August, 2023 - Present*
+####   Senior Data Consultant , Aldi Headquarters 
+August, 2023 - Present*
  - Full Stack Data Engineer - multidisciplinary expertise in ETL processes, data modeling, and front-end applications, Dashboard Design, Concept building and automated data pipelines
 
-####   Data Consultant | KnaufIT  HQ | February, 2023 - July 2023  
+####   Data Consultant , Knauf IT  HQ 
+February, 2023 - July 2023  
 
-####   Data Governance and Quality Intern | Adidas HQ | September, 2022 - February 2023
+####   Data Governance and Quality Intern , Adidas HQ  
+September, 2022 - February 2023
 
-####   ML and AI Intern | IBM in collaboration with SmartBridge| April, 2019 - June 2019
+####   ML and AI Intern , IBM in collaboration with SmartBridge
+April, 2019 - June 2019
 
 ---
 
 
 # Educational Qualifications
-####  Master of Science, Web and Data Science | University of Koblenz, Germany.
+####  Master of Science, Web and Data Science 
+University of Koblenz, Germany.
  - Majors - Data Science, Machine Learning and Data Mining, Big Data, Engineering Web and Data Intensive Systems, 
 Introduction to Web Science, Semantic Web, Digital Consumer Behavior, Risk Management in Distributed Systems. 
 
-####  Bachelor of Technology, Computer Science and Engineering | Gudlavealleru Engineering College, India 
+####  Bachelor of Technology, Computer Science and Engineering 
+Gudlavalleru Engineering College, India
+
 ---
 
 
