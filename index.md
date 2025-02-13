@@ -5,7 +5,7 @@ Experience in field of data management, analysis, and visualization, currently w
 
 Developed projects from scratch (90% - Data Mesh) and worked as a Data Engineer, Data Analyst and Data Steward
 
-Technical Excellence : Azure, Databricks, Tableau, Power Bi, Collibra, Data Management, Scrum
+#### Technical Excellence : Azure, Databricks, Tableau, Power Bi, Collibra, Data Management, Scrum
 
 ---
 # Experience
