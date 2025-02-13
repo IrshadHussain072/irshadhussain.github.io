@@ -1,11 +1,34 @@
-## Portfolio
+# theirshadhussain.github.io
 
-#### Data Governance and Quality Intern at Adidas HQ | M.Sc. Web and Data Science, University of Koblenz, Germany.
+Experience in field of data management, analysis, and visualization, currently working as Senior Data Consultant at Aldi sued International Data and Analytics (HQ) , worked as a Data Consultant at Knauf IT and a Data Governance and Quality Intern at adidas headquarters, holding a Master of Science degree in Web and Data Science from the University of Koblenz and Landau.
 
-Pursuing Advanced understanding of statistical, algebraic, and analytical techniques.
-Highly organized, motivated data person with significant background in Machine Learning projects. Driven to expand experience through hands-on training and guided participation in constructive data management tasks. 
+Developed projects from scratch (90% - Data Mesh) and worked as a Data Engineer, Data Analyst and Data Steward
+
+Technical Excellence : Azure, Databricks, Tableau, Power Bi, Collibra, Data Management, Scrum
 
 ---
+# Experience
+
+####   Senior Data Consultant | Aldi Sued Headquarters | August, 2023 - Present*
+ - Full Stack Data Engineer - multidisciplinary expertise in ETL processes, data modeling, and front-end applications, Dashboard Design, Concept building and automated data pipelines
+
+####   Data Consultant | KnaufIT  HQ | February, 2023 - July 2023  
+
+####   Data Governance and Quality Intern | Adidas HQ | September, 2022 - February 2023
+
+####   ML and AI Intern | IBM in collaboration with SmartBridge| April, 2019 - June 2019
+
+---
+
+
+# Educational Qualifications
+####  Master of Science, Web and Data Science | University of Koblenz, Germany.
+ - Majors - Data Science, Machine Learning and Data Mining, Big Data, Engineering Web and Data Intensive Systems, 
+Introduction to Web Science, Semantic Web, Digital Consumer Behavior, Risk Management in Distributed Systems. 
+
+####  Bachelor of Technology, Computer Science and Engineering | Gudlavealleru Engineering College, India 
+---
+
 
 ## Skills
 
@@ -21,58 +44,7 @@ Highly organized, motivated data person with significant background in Machine L
 
 ---
 
-## Experience
-
-### **Intern Data Governance and Quality**
-### ADIDAS HQ
-
-•	Support on major change projects linked to any of the major data domains 
-
-•	Support the design of the new data schemas, taking in consideration technical capabilities as well as business needs
-
-•	Assist in pushing the data culture in the business functions  
-
-•	Bringing in new ideas to boost data quality to the next level 
-
-•	Building a bridge, ensuring that the business partners see data and its capability in a new perspective 
-
-
-
-### **Intern Data Analytics**
-### SmartLinks Communication Pvt. Ltd.
-
-•	To collaborate with business users all over the group and internal IT providers. 
-
-•	To be the bridge between business and IT. 
-
-•	To help in preparing reports that address present and upcoming requirements for clients.
-
-•	Automation of the manual tasks using Python scripts and SQL. 
-
-•	Proactively shared ideas for continuous support and process improvement.
-
-
----
-
-## Education
-
-### **UNIVERSITY OF KOBLENZ , GERMANY**
-### M.Sc. Web and Data Science (2020 - Current)
-##### Major Modules Completed:
-Data Science, Machine Learning and Data Mining, Big Data, Engineering Web and Data Intensive Systems, 
-Introduction to Web Science, Semantic Web, Digital Consumer Behavior, Risk Management in Distributed Systems. 
-
-### **GUDLAVALLERU ENGINEERING COLLEGE**
-### BTech Computer Science And Engineering (2016 - 2020)
-
----
-
 ## Languages
 
-### ENGLISH
-##### Native Proficiency
-
-### German
-##### Business Proficiency
-
-
+#### English | Native Proficiency
+#### German | Business Proficiency 
